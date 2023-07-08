@@ -5,12 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
     "start": "nodemon index.js",
     "build": "npm i"
-=======
-    "start": "node index.js"
->>>>>>> 78c87e0df8aec30a647f67c50a30acc96b3bf144
   },
   "keywords": [],
   "author": "",
